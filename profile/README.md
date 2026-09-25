@@ -27,6 +27,12 @@ reached the target is reported as not assessed, never as passed.
 - **[scan-action](https://github.com/sixi-ai/scan-action)** — a GitHub Action that red-teams an
   agent endpoint on every run and files the findings as SARIF in the Security tab. Apache-2.0.
 
+- **[sixi-assure-rules](https://github.com/sixi-ai/sixi-assure-rules)** — the deterministic rule packs, regulatory corpus and typed-model schema behind Sixi Assure; every finding cites its clause. Apache-2.0.
+
+### Early access
+
+**Sixi Assure** — continuous, evidence-grade assurance for agentic systems, edge to cloud — is in build. Request early access at [sixi-early-access.web.app](https://sixi-early-access.web.app).
+
 ### Contact
 
 contact@sixi.ai

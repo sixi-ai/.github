@@ -29,6 +29,13 @@ reached the target is reported as not assessed, never as passed.
 
 - **[sixi-assure-rules](https://github.com/sixi-ai/sixi-assure-rules)** — the deterministic rule packs, regulatory corpus and typed-model schema behind Sixi Assure; every finding cites its clause. Apache-2.0.
 
+- **[rbrus/sixi-scanner](https://github.com/rbrus/sixi-scanner)** — a standalone Apache-2.0 binary that red-teams an agent endpoint on your own machine. No account, no network round trip, 21 publicly documented techniques, reports as SARIF. A personal project by Radoslaw Brus and not a Sixi product, but it is the thing to reach for when the hosted service is not an option.
+
+  It is a baseline, not a substitute: 21 techniques against the hosted library's
+  coverage, and it judges with string matching rather than the full adjudication
+  engine. What it does have is that it installs in one command and you can read
+  every line of it.
+
 ### Early access
 
 **Sixi Assure** — continuous, evidence-grade assurance for agentic systems, edge to cloud — is in build. Request early access at [sixi-early-access.web.app](https://sixi-early-access.web.app).

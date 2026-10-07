@@ -36,6 +36,10 @@ reached the target is reported as not assessed, never as passed.
   engine. What it does have is that it installs in one command and you can read
   every line of it.
 
+  On a public benchmark of seven red-teaming tools against a real Microsoft Foundry agent, v0.6.0
+  ranked 1st on precision (0.688) and recall (0.833), and behind the larger tools on breadth
+  ([results](https://github.com/rbrus/agent-redteam-benchmark)).
+
 ### Early access
 
 **Sixi Assure** — continuous, evidence-grade assurance for agentic systems, edge to cloud — is in build. Request early access at [sixi-early-access.web.app](https://sixi-early-access.web.app).

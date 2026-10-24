@@ -46,4 +46,4 @@ reached the target is reported as not assessed, never as passed.
 
 ### Contact
 
-[email removed]
+Open an issue in the relevant repository; for a security report, use that repository's private vulnerability reporting (Security → Report a vulnerability).
